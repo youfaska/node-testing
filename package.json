@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "esto es una prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youfaska/node-testing.git"
+  },
+  "author": "yous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youfaska/node-testing/issues"
+  },
+  "homepage": "https://github.com/youfaska/node-testing#readme",
+  "keywords": [
+    "tst"
+  ],
+  "dependencies": {}
+}
